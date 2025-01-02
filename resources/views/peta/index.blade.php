@@ -41,6 +41,4 @@
             provinces.forEach(province => marker(province));
         </script>
     </body>
-
-
 </html>
